@@ -12,7 +12,7 @@ public class DatabaseConnection {
     private static final String URL = "jdbc:mysql://localhost:3306/db_eval3";
     private static final String USERNAME = "root";
     // Untuk Laragon gunakan password kosong "", untuk MySQL biasa gunakan "oop"
-    private static final String PASSWORD = "oop"; // Laragon default
+    private static final String PASSWORD = "oop";
     private static final String DRIVER = "com.mysql.cj.jdbc.Driver";
     
     /**
